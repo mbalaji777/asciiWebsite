@@ -213,18 +213,20 @@ body, html {
 /*styling for social media tags ends here*/
 /*styling for copyrights starts here*/
 .copyrights{
-	font-size: 25px;
+	font-size: 20px;
 	font-family: 'Prompt', sans-serif;
 	text-align: center;
 	color: white;
+	padding: 10px;
 
 }
 
 .names{
-	font-size: 20px;
+	font-size: 15px;
 	font-family: 'Prompt', sans-serif;
 	text-align: center;
-	color: white;	
+	color: white;
+	padding: 10px;	
 }
 
 /*styling for the logo and amma's photo*/
@@ -250,7 +252,7 @@ body, html {
 .aboutAsciiHeading{
 	font-family: 'Rock Salt', Cursive;
 	text-align: center;
-	font-size: 70px;
+	font-size: 40px;
 	margin-top: 100px;
 }
 .aboutAsciiContent{
@@ -258,8 +260,8 @@ body, html {
 	margin-top: 100px;
 	margin-left: 30px;
 	margin-right: 30px;
-	font-size: 25px;
-	font-family: 'Prompt', sans-serif;
+	font-size: 20px;
+	font-family: 'Francois One', sans-serif;
 	padding: 30px;
 	box-shadow: 5px 10px black;
 }
